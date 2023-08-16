@@ -7,8 +7,6 @@ sites:
     url: https://promociones.cinemark.cl/
   - name: Wikipedia
     url: https://es.wikipedia.org/
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
