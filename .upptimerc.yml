@@ -7,8 +7,8 @@ sites:
     url: https://promociones.cinemark.cl
   - name: Cinemark Paraguay
     url: https://promociones.cinemark.com.py
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Canje GC
+    url: https://canje.celmediafidelizacion.cl/
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
