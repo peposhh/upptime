@@ -8,15 +8,15 @@ sites:
   - name: Cinemark Paraguay
     url: https://promociones.cinemark.com.py
   - name: Canje GC
-    url: https://canje.celmediafidelizacion.cl/
+    url: https://canje.celmediafidelizacion.cl
   - name: Itau beneficios
-    url: https://itaubeneficios.cl/
+    url: https://itaubeneficios.cl
   - name: Tienda productos
     url: https://tiendaproductos.cl
   - name: Betterfly
     url: https://bfcupon.betterflydescuentos.com
   - name: Shellcardtaxi
-    url: https://www.tarjeta-taxi.cl/
+    url: https://www.tarjeta-taxi.cl
 
 
 
