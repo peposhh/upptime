@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/canje.celmediafidelizacion.cl.ico",
     "slug": "canje-gc",
     "status": "down",
-    "uptime": "97.04%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "97.04%",
-    "uptimeYear": "97.04%",
+    "uptime": "97.15%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "97.15%",
+    "uptimeYear": "97.15%",
     "time": 156,
     "timeDay": 156,
     "timeWeek": 156,
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiendaproductos.cl.ico",
     "slug": "tienda-productos",
     "status": "down",
-    "uptime": "10.26%",
-    "uptimeDay": "10.26%",
-    "uptimeWeek": "10.26%",
-    "uptimeMonth": "10.26%",
-    "uptimeYear": "10.26%",
+    "uptime": "92.54%",
+    "uptimeDay": "92.54%",
+    "uptimeWeek": "92.54%",
+    "uptimeMonth": "92.54%",
+    "uptimeYear": "92.54%",
     "time": 131,
     "timeDay": 131,
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-08-18": 0
+      "2023-08-18": 2
     }
   },
   {
@@ -98,17 +98,19 @@
     "url": "https://bfcupon.betterflydescuentos.com",
     "icon": "https://icons.duckduckgo.com/ip3/bfcupon.betterflydescuentos.com.ico",
     "slug": "betterfly",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 760,
-    "timeDay": 760,
-    "timeWeek": 760,
-    "timeMonth": 760,
-    "timeYear": 760,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 422,
+    "timeDay": 422,
+    "timeWeek": 422,
+    "timeMonth": 422,
+    "timeYear": 422,
+    "dailyMinutesDown": {
+      "2023-08-18": 0
+    }
   }
 ]
