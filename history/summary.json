@@ -1,7 +1,7 @@
 [
   {
     "name": "Cinemark Chile",
-    "url": "https://promociones.cinemark.cl/",
+    "url": "https://promociones.cinemark.cl",
     "icon": "https://icons.duckduckgo.com/ip3/promociones.cinemark.cl.ico",
     "slug": "cinemark-chile",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1054,
-    "timeDay": 1054,
-    "timeWeek": 1054,
-    "timeMonth": 1054,
-    "timeYear": 1054,
+    "time": 1224,
+    "timeDay": 1224,
+    "timeWeek": 1224,
+    "timeMonth": 1224,
+    "timeYear": 1224,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 177,
-    "timeWeek": 177,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "time": 173,
+    "timeDay": 173,
+    "timeWeek": 173,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 396,
-    "timeWeek": 396,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "time": 386,
+    "timeDay": 386,
+    "timeWeek": 386,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {}
   },
   {
