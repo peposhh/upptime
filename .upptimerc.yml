@@ -17,9 +17,8 @@ sites:
     url: https://bfcupon.betterflydescuentos.com
   - name: Shellcardtaxi
     url: https://www.tarjeta-taxi.cl
-
-
-
+  - name: Hazte Cliente empresas
+    url: https://hazteclienteempresas.itaubeneficios.cl/
 
 
 status-website:
