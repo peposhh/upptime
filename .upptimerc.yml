@@ -9,10 +9,17 @@ sites:
     url: https://promociones.cinemark.com.py
   - name: Canje GC
     url: https://canje.celmediafidelizacion.cl/
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Itau beneficios
+    url: https://itaubeneficios.cl/
+  - name: Tienda productos
+    url: https://tiendaproductos.cl
+  - name: Betterfly
+    url: https://bfcupon.betterflydescuentos.com
+    
+  
+
+
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
