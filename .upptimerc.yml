@@ -15,11 +15,12 @@ sites:
     url: https://tiendaproductos.cl
   - name: Betterfly
     url: https://bfcupon.betterflydescuentos.com
-    
-  
+  - name: Shellcardtaxi
+    url: https://www.tarjeta-taxi.cl/
 
 
-    
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
