@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Cinemark Chile
-    url: https://promociones.cinemark.cl/
+    url: https://promociones.cinemark.cl
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
