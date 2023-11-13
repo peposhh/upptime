@@ -1,7 +1,7 @@
 url: https://promociones.cinemark.cl
-status: up
-code: 200
-responseTime: 815
-lastUpdated: 2023-11-12T23:03:44.629Z
+status: down
+code: 500
+responseTime: 941
+lastUpdated: 2023-11-13T18:39:16.036Z
 startTime: 2023-08-18T00:57:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
