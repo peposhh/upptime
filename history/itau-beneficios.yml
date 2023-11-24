@@ -1,7 +1,7 @@
 url: https://itaubeneficios.cl
-status: up
-code: 200
-responseTime: 1151
-lastUpdated: 2023-11-24T14:26:32.953Z
+status: down
+code: 500
+responseTime: 10685
+lastUpdated: 2023-11-24T18:39:07.153Z
 startTime: 2023-08-18T14:49:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
