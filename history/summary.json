@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 1073,
-    "timeDay": 1291,
-    "timeWeek": 1141,
-    "timeMonth": 1233,
+    "timeDay": 914,
+    "timeWeek": 1096,
+    "timeMonth": 1226,
     "timeYear": 1077,
     "dailyMinutesDown": {
       "2024-12-08": 19,
@@ -37,10 +37,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 1033,
-    "timeDay": 978,
-    "timeWeek": 1038,
+    "timeDay": 970,
+    "timeWeek": 1023,
     "timeMonth": 1066,
-    "timeYear": 1044,
+    "timeYear": 1043,
     "dailyMinutesDown": {
       "2024-12-08": 19,
       "2024-08-06": 66,
@@ -57,15 +57,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/canje.celmediafidelizacion.cl.ico",
     "slug": "canje-gc",
     "status": "up",
-    "uptime": "65.17%",
+    "uptime": "65.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "68.20%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "71.48%",
     "uptimeYear": "53.96%",
     "time": 543,
-    "timeDay": 1014,
-    "timeWeek": 883,
-    "timeMonth": 715,
+    "timeDay": 774,
+    "timeWeek": 866,
+    "timeMonth": 734,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2024-12-06": 17,
@@ -252,11 +252,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
-    "time": 1227,
-    "timeDay": 1191,
-    "timeWeek": 1219,
-    "timeMonth": 1091,
-    "timeYear": 1171,
+    "time": 1225,
+    "timeDay": 916,
+    "timeWeek": 1195,
+    "timeMonth": 1088,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2024-11-25": 60,
       "2024-09-08": 128,
@@ -275,9 +275,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 149,
-    "timeWeek": 171,
-    "timeMonth": 150,
+    "timeDay": 142,
+    "timeWeek": 163,
+    "timeMonth": 153,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -293,8 +293,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 133,
-    "timeWeek": 116,
+    "timeDay": 69,
+    "timeWeek": 112,
     "timeMonth": 113,
     "timeYear": 102,
     "dailyMinutesDown": {}
@@ -310,14 +310,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 908,
-    "timeDay": 1024,
-    "timeWeek": 997,
-    "timeMonth": 939,
+    "time": 907,
+    "timeDay": 720,
+    "timeWeek": 947,
+    "timeMonth": 933,
     "timeYear": 920,
-    "dailyMinutesDown": {
-      "2023-12-15": 814
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hazte Cliente empresas",
@@ -325,7 +323,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hazteclienteempresas.itaubeneficios.cl.ico",
     "slug": "hazte-cliente-empresas",
     "status": "down",
-    "uptime": "6.81%",
+    "uptime": "6.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -336,7 +334,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-13": 100,
+      "2024-12-14": 95,
+      "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -699,8 +698,7 @@
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
-      "2023-12-16": 1440,
-      "2023-12-15": 1440
+      "2023-12-16": 1440
     }
   }
 ]
